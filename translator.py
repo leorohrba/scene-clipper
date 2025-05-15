@@ -31,7 +31,7 @@ TRANSLATION_MODEL = "Helsinki-NLP/opus-mt-tc-big-en-pt"
 
 # Speaker diarization
 DIARIZATION_MODEL = "pyannote/speaker-diarization-3.1"
-HF_API_TOKEN = "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"  # Get from https://huggingface.co/settings/tokens
+HF_API_TOKEN = ""  # Get from https://huggingface.co/settings/tokens
 
 min_duration = 10.0  # Minimum duration for audio segments in seconds
 
